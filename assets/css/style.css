@@ -172,6 +172,12 @@ body {
         gap: 40px;
     }
 
+    .first-div h1 {
+        font-weight: bolder;
+        color: #666;
+        margin-top: 30px;
+    }
+
     .contact-info {
         width: 100%;
     }
